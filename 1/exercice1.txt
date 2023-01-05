@@ -1,0 +1,3 @@
+mkdir : créer un dossier
+cd : se rendre dans le dossier
+touch : créer un fichier
