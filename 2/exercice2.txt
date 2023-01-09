@@ -1,0 +1,7 @@
+exercice1.txt pèse 83 octets
+La configuration d'un programme se trouve dans ect
+L'exécutable apt se trouve dansle bin
+Commande pour afficher les processus actifs est ps
+Différences less et more : less est un executable, on en sort via q
+Demander poliment sigterm java
+Arrêter processuspkill -15 5240
